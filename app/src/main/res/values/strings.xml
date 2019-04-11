@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">动态权限获取</string>
+    <string name="returned_from_app_settings_to_activity">从设置界面返回</string>
+    <string name="camera_and_wifi_rationale">没有权限,现在申请权限</string>
+    <string name="hasPermissions">权限被授予成功</string>
+    <string name="btCall">申请单个权限</string>
+    <string name="call_rationale">拨打电话权限被拒绝</string>
+    <string name="btCallAndWifi">申请多个权限</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="rationale_camera">This app needs access to your camera so you can take pictures.</string>
+    <string name="rationale_location_contacts">This app needs access to your location and contacts to know where and who you are.</string>
+    <string name="rationale_sms">This app needs access to your sms to read all your great messages.</string>
+    <string name="camera">Camera</string>
+    <string name="location_and_contacts">Location and Contacts</string>
+    <string name="sms">SMS</string>
+</resources>
